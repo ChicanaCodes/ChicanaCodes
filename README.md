@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChicanaCodes
 - 👀 I’m interested in Web3 and DEI in technology 
-- 🌱 I’m currently learning Solidity and DSA.
+- 🌱 I’m currently learning Solidity and refreshing my DSA.
 - 💞️ I’m looking to collaborate on Web3 and Web3 learning resources.
 - 📫 You can connect with me on Twitter @chicanacodes
 
